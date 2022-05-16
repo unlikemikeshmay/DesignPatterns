@@ -1,0 +1,8 @@
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\obj\x86\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\obj\x86\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\obj\x86\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\bin\Debug\ConsoleApplication.exe.config
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\bin\Debug\ConsoleApplication.exe
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\bin\Debug\ConsoleApplication.pdb
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mikes\source\repos\DesignPatterns\DesignPatternsSol\Decorator\obj\x86\Debug\ConsoleApplication.pdb

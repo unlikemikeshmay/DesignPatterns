@@ -9,7 +9,7 @@ namespace StrategyPatternsSol.Decorator
     internal class Program
     {
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             RegularOrder regularOrder = new RegularOrder();
             Console.WriteLine(regularOrder.CalculateTotalOrderPrice());
@@ -18,7 +18,6 @@ namespace StrategyPatternsSol.Decorator
             Preorder preorder = new Preorder();
             Console.WriteLine(preorder.CalculateTotalOrderPrice());
             Console.WriteLine();
-            Console.ReadKey();
         }
     }
 }

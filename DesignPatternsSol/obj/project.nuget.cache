@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjhX+Sp2RBgk9MF35mtFrQvNu3zZH4KlCpg2RVvPfU5W3iDZ8Fe7TfwqFYv2TmzHcRuzKQI5KgtAowVEvaYuzQ==",
+  "dgSpecHash": "Za378lisK4DmJOiCCpFMeX7t03YueEnfa9PU71u8d02UrO/6goOPHPf5927E9B09QAkG1mNLg5h05EKEy0C8hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikes\\source\\repos\\DesignPatternsSol\\DesignPatternsSol\\StrategyPatternsSol.csproj",
+  "projectFilePath": "C:\\Users\\mikes\\source\\repos\\DesignPatterns\\DesignPatternsSol\\StrategyPatternsSol.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
