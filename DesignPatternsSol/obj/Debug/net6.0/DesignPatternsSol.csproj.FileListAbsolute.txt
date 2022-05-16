@@ -1,0 +1,15 @@
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.csproj.AssemblyReference.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.AssemblyInfo.cs
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\DesignPatternsSol.exe
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\DesignPatternsSol.deps.json
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\DesignPatternsSol.runtimeconfig.json
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\DesignPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\DesignPatternsSol.pdb
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\refint\DesignPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.pdb
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\DesignPatternsSol.genruntimeconfig.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\ref\DesignPatternsSol.dll

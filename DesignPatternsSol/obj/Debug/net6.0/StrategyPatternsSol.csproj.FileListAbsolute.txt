@@ -1,0 +1,15 @@
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.csproj.AssemblyReference.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.AssemblyInfo.cs
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\StrategyPatternsSol.exe
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\StrategyPatternsSol.deps.json
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\StrategyPatternsSol.runtimeconfig.json
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\StrategyPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\bin\Debug\net6.0\StrategyPatternsSol.pdb
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\refint\StrategyPatternsSol.dll
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.pdb
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\StrategyPatternsSol.genruntimeconfig.cache
+C:\Users\mikes\source\repos\DesignPatternsSol\DesignPatternsSol\obj\Debug\net6.0\ref\StrategyPatternsSol.dll
